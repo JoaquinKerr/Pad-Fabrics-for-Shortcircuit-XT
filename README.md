@@ -8,3 +8,5 @@ They are uploaded as monoliths because using collected samples sometimes results
 Licence is CC0.
 
 If you want to learn more about PAD synthesis read Paul Nasca's original paper: https://zynaddsubfx.sourceforge.io/doc/PADsynth/PADsynth.htm
+
+![Stupid cover image.](https://github.com/JoaquinKerr/Pad-Fabrics-for-Shortcircuit-XT/Cover_Image.jpg)
