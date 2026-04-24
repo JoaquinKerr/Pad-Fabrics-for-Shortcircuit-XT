@@ -5,6 +5,6 @@ The sounds are mostly bells and pads with a recognizable synthetic quality and a
 The sound design is also mostly very simple, to encourage further tampering. Think of them as starting points.
 They are uploaded as monoliths because using collected samples sometimes results in abolute paths.
 
-Licence is CC0, or public domain as you prefer.
+Licence is CC0.
 
 If you want to learn more about PAD synthesis read Paul Nasca's original paper: https://zynaddsubfx.sourceforge.io/doc/PADsynth/PADsynth.htm
