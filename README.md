@@ -1,4 +1,4 @@
-# Pad-Fabrics-for-Shortcircuit-XT
+# Pad Fabrics for Shortcircuit XT
 A collection of patches (single parts) for Shortcircuit XT using samples generated with PAD synthesis.
 
 The sounds are mostly bells and pads with a recognizable synthetic quality and a fairly wide inherent stereo spread. 
