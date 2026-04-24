@@ -11,4 +11,5 @@ If you want to learn more about PAD synthesis read Paul Nasca's original paper: 
 
 
 Here's a stupid cover image:
+
 ![Stupid cover image.](https://github.com/JoaquinKerr/Pad-Fabrics-for-Shortcircuit-XT/blob/main/Cover_Image.jpg)
